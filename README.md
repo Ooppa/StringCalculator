@@ -15,7 +15,7 @@ java -jar "dist/StringCalculator.jar"
 
 ## Features
 
-* Perform calculations using JS Script Engine (pretty everything but ^ works)
+* Perform calculations using JS Script Engine (pretty much everything but ^ works)
 * History list for previously made calculations (also Ctrl+Z works)
 * Lock and unlock history temporarily
 * Always on-top mode for intence calculations
